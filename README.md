@@ -46,3 +46,12 @@ I’m currently focused on expanding my knowledge in data engineering, analytics
 - 📫 Email: leocristao@hotmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/leorodriguesc
 - 📁 Explore my GitHub for projects in data analytics, dashboards, and automation
+
+<p align="center">
+  <a href="mailto:leocristao@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/leorodriguesc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP Badge"/>
+</p>
