@@ -31,5 +31,5 @@
 ## 💬 Contato
 - Email: leocristao@hotmail.com
 - LinkedIn: [linkedin.com/in/leocridriguesc](https://linkedin.com/in/leocridriguesc)
-- Passos para Implementaçãoogo=google-cloud&logoColor=white" alt="GCP Badge"/>
+
 </p>
