@@ -1,57 +1,35 @@
 
-# 👋 Hello! I'm Leo Rodrigues
+# Portfólio de Leo Rodrigues - Analista de Dados
 
-🎓 **Graduated in Computer Networks**  
-📡 Over **15 years of experience as a Telecommunications Analyst**  
-🔄 Currently transitioning to a career in **Data and Analytics**
+👋 Olá! Sou Leo Rodrigues, um profissional com mais de 15 anos em Telecomunicações, atualmente em transição para a área de Dados e Analytics. Apaixonado por transformar dados em insights, estou cursando Pós-graduação em Engenharia de Dados e buscando oportunidades para crescer.
 
----
+## 🚀 Sobre Mim
+- **Experiência**: Análise de dados, automação de processos e criação de dashboards.
+- **Habilidades**: Python (Pandas, Matplotlib), SQL, Power BI, Excel Avançado, AWS, GCP.
+- **Formação**: Pós-graduação em Engenharia de Dados (em andamento), Graduação em Redes de Computadores.
+- **Certificações**: AWS, GCP, Power BI, Python.
 
-## 🚀 About Me
+## 🛠️ Projetos
+### 1. Análise de Consumo de Cereais (ProjetoIBM)
+- **Descrição**: Análise de dados de consumo com Python, identificando padrões.
+- **Tecnologias**: Python, Jupyter Notebook.
+- **[Link](notebooks/cereal_analysis.ipynb)**
 
-I’m a technology enthusiast with a solid background in networks and telecommunications. Throughout my career, I developed a strategic and systems-oriented view of IT infrastructure, which inspired me to shift my focus to the world of **Data** — a dynamic field with transformative potential.
+### 2. Pipeline de Dados (XPE-EDD)
+- **Descrição**: Projeto acadêmico de ETL e modelagem de dados.
+- **Tecnologias**: Python, SQL.
+- **[Link](projects/XPE-EDD/pipeline.ipynb)**
 
-I’m currently focused on expanding my knowledge in data engineering, analytics, and visualization.
+### 3. Dashboard de Vendas
+- **Descrição**: Dashboard em Power BI que reduziu o tempo de análise em 85%.
+- **Tecnologias**: Power BI.
+- **[Link](projects/Dashboard-Vendas/dashboard.pbix)**
 
----
+## 🌱 Em Aprendizado
+- Data Modeling, Apache Airflow, Data Lakes, Cloud BI.
 
-## 🧠 Skills & Technologies
-
-- **Languages**: Python (Pandas, NumPy, Matplotlib, etc.)
-- **Data Analysis**: Advanced Excel, Power BI, Google Looker Studio
-- **Cloud Platforms**: AWS, Google Cloud Platform
-- **Databases**: SQL (basic/intermediate)
-- **Tools & Concepts**: ETL, Data Warehousing, Big Data (in progress)
-
----
-
-## 🎓 Education
-
-- 🎓 Postgraduate in Data Engineering and Architecture *(in progress)*
-- 🎓 Bachelor’s Degree in Computer Networks
-
----
-
-## 🌱 Currently Learning
-
-- Data Modeling
-- Data Pipelines with Apache Airflow
-- Data Lake storage
-- Cloud-based BI integrations
-
----
-
-## 💬 Let’s Connect!
-
-- 📫 Email: leocristao@hotmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/leorodriguesc
-- 📁 Explore my GitHub for projects in data analytics, dashboards, and automation
-
-<p align="center">
-  <a href="mailto:leocristao@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/leorodriguesc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP Badge"/>
+## 💬 Contato
+- Email: leocristao@hotmail.com
+- LinkedIn: [linkedin.com/in/leocridriguesc](https://linkedin.com/in/leocridriguesc)
+- Passos para Implementaçãoogo=google-cloud&logoColor=white" alt="GCP Badge"/>
 </p>
